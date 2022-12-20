@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\Tasc34.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\Tasc34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\Tasc34.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\Tasc34.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\Tasc34.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\lesson5\Tasc34\bin\Debug\net6.0\Tasc34.exe
+C:\Users\User\Desktop\C#\lesson5\Tasc34\bin\Debug\net6.0\Tasc34.deps.json
+C:\Users\User\Desktop\C#\lesson5\Tasc34\bin\Debug\net6.0\Tasc34.runtimeconfig.json
+C:\Users\User\Desktop\C#\lesson5\Tasc34\bin\Debug\net6.0\Tasc34.dll
+C:\Users\User\Desktop\C#\lesson5\Tasc34\bin\Debug\net6.0\Tasc34.pdb
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\Tasc34.dll
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\refint\Tasc34.dll
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\Tasc34.pdb
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\Tasc34.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\lesson5\Tasc34\obj\Debug\net6.0\ref\Tasc34.dll
